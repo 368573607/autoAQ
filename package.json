@@ -1,0 +1,21 @@
+{
+  "name": "xueanquan-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "自动完成安全作业",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:rscs/autoAQ.git"
+  },
+  "dependencies": {
+    "playwright": "^1.12.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.14.0",
+    "typescript": "^4.3.5"
+  }
+}
