@@ -1,6 +1,6 @@
 {
   "name": "xueanquan-automation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "description": "自动完成安全作业",
