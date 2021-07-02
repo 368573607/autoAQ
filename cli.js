@@ -7,4 +7,8 @@ autoAQ({
     name,
     pass,
     from
-}, false, 3000)
+}, false, 3000).then(() => {
+    console.log("succes!")
+}).catch(e => {
+    console.error(e)
+})
