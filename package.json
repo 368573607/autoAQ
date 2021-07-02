@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git@gitee.com:rscs/autoAQ.git"
   },
+  "bin": "./cli.js",
   "dependencies": {
     "playwright": "^1.12.3"
   },
